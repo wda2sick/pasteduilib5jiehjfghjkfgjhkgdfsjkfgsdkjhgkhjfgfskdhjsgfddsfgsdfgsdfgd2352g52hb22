@@ -324,7 +324,6 @@ function Library:AddTab(name)
         end
     end)
     
-    tabFrame.Scale = 0
     tabFrame.Size = UDim2.new(0, 0, 0, 0)
     tabFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
     
